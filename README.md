@@ -15,7 +15,7 @@ Before running this project, ensure you have:
 
 - Flutter SDK installed. Follow the [Flutter installation guide](https://docs.flutter.dev/get-started/install).
 - Access to the Gemini API and ElevenLabs API. Obtain API keys from their respective platforms:
-  - [Get Gemini API from here]([https://gemini-api-docs-link](https://ai.google.dev/)) 
+  - [Get Gemini API from here][https://gemini-api-docs-link](https://ai.google.dev/) 
   - [ElevenLabs API Documentation from here]([https://elevenlabs-api-docs-link](https://elevenlabs.io/api)) 
 
 ## Setup Instructions
