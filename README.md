@@ -22,8 +22,8 @@ Before running this project, ensure you have:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/myapp.git
-   cd kahaani-suno
+   git clone [https://github.com/username/myapp.git](https://github.com/avirupnandi1/kahaani-suno)
+   
    ```
 
 2. **Install dependencies**:
