@@ -9,6 +9,12 @@ Kahaani Suno is a Flutter-based application that allows users to create stories 
 - **Audio Narration**: The generated story is converted into an audio file using the ElevenLabs API, allowing users to listen to the story.
 - **Intuitive UI**: The app is built with Flutter, offering a smooth, interactive, and cross-platform experience.
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/5520b1ce-ac2a-4ba9-82e2-99a4ee095adb)
+
+![Screenshot 2024-11-04 222803](https://github.com/user-attachments/assets/03dc50b1-b3b9-457f-a788-b8fd51c13ac5)
+
+
 ## Prerequisites
 
 Before running this project, ensure you have:
