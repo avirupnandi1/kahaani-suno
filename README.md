@@ -46,7 +46,7 @@ Before running this project, ensure you have:
 ## Usage
 
 - **Enter Story Idea**: Open the app and type a brief description or idea for a story.
-- **Generate Story**: Tap the "Generate" button to create a complete story using the Gemini API.
+- **Generate Story**: Tap the "Generate Story" button to create a complete story using the Gemini API.
 - **Listen to Story**: Tap the "Play" button to hear the story narrated using the ElevenLabs API.
 
 ## Technologies Used
